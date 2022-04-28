@@ -72,6 +72,7 @@ svg {
     }
     /* (A) BREAK INTO VERTICAL MENU */
   #hamitems a {
+      background-color: #7B68EE	;
     box-sizing: border-box;
     display: block;
     width: 100%;
@@ -89,7 +90,7 @@ svg {
   }
 
   /* (C) TOGGLE SHOW/HIDE MENU */
-  #hamitems { display: none; color:#FF4500 }
+  #hamitems { display: none; color:white }
   #hamnav input:checked ~ #hamitems { display: block; }
 
 
