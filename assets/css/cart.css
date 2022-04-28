@@ -6,8 +6,7 @@ body {
     min-height: 100vh;
     height: fit-content;
     width: 100%;
-    background-image: url(../images/bg.jpg);
-    background-color: #ffffff;
+    background-color: #C0A1FF;
     color: rgb(0, 0, 0);
     overflow: hidden;
     padding-bottom: 100px;
@@ -31,7 +30,6 @@ body {
 .glow-button.return{
     background-color: F6F54DF;
     color: #120821;
-    border: 1px solid black;
     border-radius: 50px;
 }
 .glow-button1 {
@@ -43,17 +41,16 @@ body {
     margin-right: 200px;
     margin-left: 10px;
     border-radius: 50px;
-    background-color: #ffffff;
-    box-shadow: 0px 0px 15px #ffffff;
+    background-color:rgb(246, 245, 77);
+    box-shadow: rgb(255, 230, 27);
     transition-duration: 0.5s;
     color: #000000;
-    border: 1px solid black;
 }
 .glow-button1:hover {
     cursor: pointer;
     color: #000000;
-    background-color: rgb(246, 245, 77);
-    box-shadow: 0px 0px 15px rgb(255, 230, 27);
+    background-color: #ffffff;
+    box-shadow: #ffffff;
 }
 .main__wrap{
     padding: 0 80px;

@@ -62,7 +62,7 @@ svg {
     text-decoration: none;
     text-align: center;
   }
-  #hamitems a:hover { background: #af0d0d; }
+  #hamitems a:hover { background: rgb(116, 30, 138); }
   
   /* (C) HIDE HAMBURGER */
   #hamnav label, #hamburger { display: none; }
@@ -72,7 +72,7 @@ svg {
     }
     /* (A) BREAK INTO VERTICAL MENU */
   #hamitems a {
-      background-color: #7B68EE	;
+      background-color: #5c3f5a	;
     box-sizing: border-box;
     display: block;
     width: 100%;
